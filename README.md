@@ -1,4 +1,5 @@
 # Git guides
 
-   - feature-A
 
+   - feature-A
+   - fix-B
